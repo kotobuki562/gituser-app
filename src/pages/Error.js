@@ -8,7 +8,7 @@ const Error = () => {
         <h1>404</h1>
         <h3>ごめんなさい！そのページは見つかりませんでした😭😭😭</h3>
         <Link to="/" className="btn">
-          🚀ホーム画面🚀
+          🚀 ホーム画面 🚀
         </Link>
       </div>
     </Wrapper>
