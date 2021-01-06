@@ -9,11 +9,47 @@ const UserInfo = () => {
   const { public_repos, followers, following, public_gists } = githubUser;
   console.log(public_repos);
 
-  const items = [{ id: 1, icon: <GoRepo className="icon" />, label: "repos" }];
+  const items = [
+    {
+      id: 1,
+      icon: <GoRepo className="icon" />,
+      label: "repos",
+      value: public_repos,
+      color: "pink",
+    },
+    {
+      id: 2,
+      icon: <FiUsers className="icon" />,
+      label: "followers",
+      value: followers,
+      color: "green",
+    },
+    {
+      id: 3,
+      icon: <FiUserPlus className="icon" />,
+      label: "following",
+      value: following,
+      color: "purple",
+    },
+    {
+      id: 4,
+      icon: <GoGist className="icon" />,
+      label: "gists",
+      value: public_gists,
+      color: "yellow",
+    },
+  ];
 
-  return <h2>user info component</h2>;
+  return (
+    <section>
+      <Wrapper className="section-center">
+        {items.map((item) => {
+          return <p>item</p>;
+        })}
+      </Wrapper>
+    </section>
+  );
 };
-
 const Wrapper = styled.section`
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
