@@ -9,7 +9,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -136,7 +136,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -264,7 +264,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -382,6 +382,142 @@ export default [
     default_branch: "master",
   },
   {
+    id: 327581993,
+    node_id: "MDEwOlJlcG9zaXRvcnkzMjc1ODE5OTM=",
+    name: "classsed-react-firebase-client",
+    full_name: "kotobuki562/classsed-react-firebase-client",
+    private: false,
+    owner: {
+      login: "kotobuki562",
+      id: 67810971,
+      node_id: "MDQ6VXNlcjY3ODEwOTcx",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
+      gravatar_id: "",
+      url: "https://api.github.com/users/kotobuki562",
+      html_url: "https://github.com/kotobuki562",
+      followers_url: "https://api.github.com/users/kotobuki562/followers",
+      following_url:
+        "https://api.github.com/users/kotobuki562/following{/other_user}",
+      gists_url: "https://api.github.com/users/kotobuki562/gists{/gist_id}",
+      starred_url:
+        "https://api.github.com/users/kotobuki562/starred{/owner}{/repo}",
+      subscriptions_url:
+        "https://api.github.com/users/kotobuki562/subscriptions",
+      organizations_url: "https://api.github.com/users/kotobuki562/orgs",
+      repos_url: "https://api.github.com/users/kotobuki562/repos",
+      events_url: "https://api.github.com/users/kotobuki562/events{/privacy}",
+      received_events_url:
+        "https://api.github.com/users/kotobuki562/received_events",
+      type: "User",
+      site_admin: false,
+    },
+    html_url: "https://github.com/kotobuki562/classsed-react-firebase-client",
+    description: null,
+    fork: true,
+    url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client",
+    forks_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/forks",
+    keys_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/keys{/key_id}",
+    collaborators_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/collaborators{/collaborator}",
+    teams_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/teams",
+    hooks_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/hooks",
+    issue_events_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/issues/events{/number}",
+    events_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/events",
+    assignees_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/assignees{/user}",
+    branches_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/branches{/branch}",
+    tags_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/tags",
+    blobs_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/git/blobs{/sha}",
+    git_tags_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/git/tags{/sha}",
+    git_refs_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/git/refs{/sha}",
+    trees_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/git/trees{/sha}",
+    statuses_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/statuses/{sha}",
+    languages_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/languages",
+    stargazers_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/stargazers",
+    contributors_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/contributors",
+    subscribers_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/subscribers",
+    subscription_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/subscription",
+    commits_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/commits{/sha}",
+    git_commits_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/git/commits{/sha}",
+    comments_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/comments{/number}",
+    issue_comment_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/issues/comments{/number}",
+    contents_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/contents/{+path}",
+    compare_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/compare/{base}...{head}",
+    merges_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/merges",
+    archive_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/{archive_format}{/ref}",
+    downloads_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/downloads",
+    issues_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/issues{/number}",
+    pulls_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/pulls{/number}",
+    milestones_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/milestones{/number}",
+    notifications_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/notifications{?since,all,participating}",
+    labels_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/labels{/name}",
+    releases_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/releases{/id}",
+    deployments_url:
+      "https://api.github.com/repos/kotobuki562/classsed-react-firebase-client/deployments",
+    created_at: "2021-01-07T10:45:59Z",
+    updated_at: "2021-01-07T10:46:20Z",
+    pushed_at: "2021-01-07T10:46:17Z",
+    git_url: "git://github.com/kotobuki562/classsed-react-firebase-client.git",
+    ssh_url: "git@github.com:kotobuki562/classsed-react-firebase-client.git",
+    clone_url:
+      "https://github.com/kotobuki562/classsed-react-firebase-client.git",
+    svn_url: "https://github.com/kotobuki562/classsed-react-firebase-client",
+    homepage: null,
+    size: 434,
+    stargazers_count: 0,
+    watchers_count: 0,
+    language: "JavaScript",
+    has_issues: false,
+    has_projects: true,
+    has_downloads: true,
+    has_wiki: true,
+    has_pages: false,
+    forks_count: 0,
+    mirror_url: null,
+    archived: false,
+    disabled: false,
+    open_issues_count: 0,
+    license: null,
+    forks: 0,
+    open_issues: 0,
+    watchers: 0,
+    default_branch: "master",
+  },
+  {
     id: 309952439,
     node_id: "MDEwOlJlcG9zaXRvcnkzMDk5NTI0Mzk=",
     name: "color-pick",
@@ -391,7 +527,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -519,7 +655,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -647,7 +783,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -775,7 +911,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -903,7 +1039,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -1030,7 +1166,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -1158,7 +1294,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -1283,7 +1419,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -1374,14 +1510,14 @@ export default [
     deployments_url:
       "https://api.github.com/repos/kotobuki562/gituser-app/deployments",
     created_at: "2021-01-05T05:00:36Z",
-    updated_at: "2021-01-05T06:58:37Z",
-    pushed_at: "2021-01-05T06:58:35Z",
+    updated_at: "2021-01-24T01:59:35Z",
+    pushed_at: "2021-01-24T01:59:33Z",
     git_url: "git://github.com/kotobuki562/gituser-app.git",
     ssh_url: "git@github.com:kotobuki562/gituser-app.git",
     clone_url: "https://github.com/kotobuki562/gituser-app.git",
     svn_url: "https://github.com/kotobuki562/gituser-app",
     homepage: null,
-    size: 670,
+    size: 939,
     stargazers_count: 0,
     watchers_count: 0,
     language: "JavaScript",
@@ -1411,7 +1547,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -1539,7 +1675,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -1667,7 +1803,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -1795,7 +1931,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -1923,7 +2059,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -2051,7 +2187,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -2179,7 +2315,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -2283,13 +2419,13 @@ export default [
     has_downloads: true,
     has_wiki: true,
     has_pages: false,
-    forks_count: 0,
+    forks_count: 1,
     mirror_url: null,
     archived: false,
     disabled: false,
     open_issues_count: 1,
     license: null,
-    forks: 0,
+    forks: 1,
     open_issues: 1,
     watchers: 2,
     default_branch: "master",
@@ -2304,7 +2440,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -2432,7 +2568,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -2559,7 +2695,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -2687,7 +2823,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -2815,7 +2951,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -2940,7 +3076,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -3059,7 +3195,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -3192,7 +3328,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -3320,7 +3456,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -3448,7 +3584,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -3565,7 +3701,7 @@ export default [
       login: "kotobuki562",
       id: 67810971,
       node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
+      avatar_url: "https://avatars.githubusercontent.com/u/67810971?v=4",
       gravatar_id: "",
       url: "https://api.github.com/users/kotobuki562",
       html_url: "https://github.com/kotobuki562",
@@ -3587,7 +3723,7 @@ export default [
     },
     html_url: "https://github.com/kotobuki562/Share-Childcare",
     description: null,
-    fork: true,
+    fork: false,
     url: "https://api.github.com/repos/kotobuki562/Share-Childcare",
     forks_url: "https://api.github.com/repos/kotobuki562/Share-Childcare/forks",
     keys_url:
@@ -3658,7 +3794,7 @@ export default [
     deployments_url:
       "https://api.github.com/repos/kotobuki562/Share-Childcare/deployments",
     created_at: "2020-11-11T09:48:53Z",
-    updated_at: "2020-11-11T09:48:56Z",
+    updated_at: "2021-01-24T01:27:06Z",
     pushed_at: "2020-07-31T10:33:49Z",
     git_url: "git://github.com/kotobuki562/Share-Childcare.git",
     ssh_url: "git@github.com:kotobuki562/Share-Childcare.git",
@@ -3684,139 +3820,5 @@ export default [
     open_issues: 0,
     watchers: 0,
     default_branch: "master",
-  },
-  {
-    id: 297823794,
-    node_id: "MDEwOlJlcG9zaXRvcnkyOTc4MjM3OTQ=",
-    name: "training_curriculum",
-    full_name: "kotobuki562/training_curriculum",
-    private: false,
-    owner: {
-      login: "kotobuki562",
-      id: 67810971,
-      node_id: "MDQ6VXNlcjY3ODEwOTcx",
-      avatar_url: "https://avatars3.githubusercontent.com/u/67810971?v=4",
-      gravatar_id: "",
-      url: "https://api.github.com/users/kotobuki562",
-      html_url: "https://github.com/kotobuki562",
-      followers_url: "https://api.github.com/users/kotobuki562/followers",
-      following_url:
-        "https://api.github.com/users/kotobuki562/following{/other_user}",
-      gists_url: "https://api.github.com/users/kotobuki562/gists{/gist_id}",
-      starred_url:
-        "https://api.github.com/users/kotobuki562/starred{/owner}{/repo}",
-      subscriptions_url:
-        "https://api.github.com/users/kotobuki562/subscriptions",
-      organizations_url: "https://api.github.com/users/kotobuki562/orgs",
-      repos_url: "https://api.github.com/users/kotobuki562/repos",
-      events_url: "https://api.github.com/users/kotobuki562/events{/privacy}",
-      received_events_url:
-        "https://api.github.com/users/kotobuki562/received_events",
-      type: "User",
-      site_admin: false,
-    },
-    html_url: "https://github.com/kotobuki562/training_curriculum",
-    description: null,
-    fork: false,
-    url: "https://api.github.com/repos/kotobuki562/training_curriculum",
-    forks_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/forks",
-    keys_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/keys{/key_id}",
-    collaborators_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/collaborators{/collaborator}",
-    teams_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/teams",
-    hooks_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/hooks",
-    issue_events_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/issues/events{/number}",
-    events_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/events",
-    assignees_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/assignees{/user}",
-    branches_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/branches{/branch}",
-    tags_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/tags",
-    blobs_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/git/blobs{/sha}",
-    git_tags_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/git/tags{/sha}",
-    git_refs_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/git/refs{/sha}",
-    trees_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/git/trees{/sha}",
-    statuses_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/statuses/{sha}",
-    languages_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/languages",
-    stargazers_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/stargazers",
-    contributors_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/contributors",
-    subscribers_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/subscribers",
-    subscription_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/subscription",
-    commits_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/commits{/sha}",
-    git_commits_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/git/commits{/sha}",
-    comments_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/comments{/number}",
-    issue_comment_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/issues/comments{/number}",
-    contents_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/contents/{+path}",
-    compare_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/compare/{base}...{head}",
-    merges_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/merges",
-    archive_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/{archive_format}{/ref}",
-    downloads_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/downloads",
-    issues_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/issues{/number}",
-    pulls_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/pulls{/number}",
-    milestones_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/milestones{/number}",
-    notifications_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/notifications{?since,all,participating}",
-    labels_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/labels{/name}",
-    releases_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/releases{/id}",
-    deployments_url:
-      "https://api.github.com/repos/kotobuki562/training_curriculum/deployments",
-    created_at: "2020-09-23T01:58:16Z",
-    updated_at: "2020-09-23T09:50:46Z",
-    pushed_at: "2020-09-23T09:51:11Z",
-    git_url: "git://github.com/kotobuki562/training_curriculum.git",
-    ssh_url: "git@github.com:kotobuki562/training_curriculum.git",
-    clone_url: "https://github.com/kotobuki562/training_curriculum.git",
-    svn_url: "https://github.com/kotobuki562/training_curriculum",
-    homepage: null,
-    size: 161,
-    stargazers_count: 0,
-    watchers_count: 0,
-    language: "Ruby",
-    has_issues: true,
-    has_projects: true,
-    has_downloads: true,
-    has_wiki: true,
-    has_pages: false,
-    forks_count: 0,
-    mirror_url: null,
-    archived: false,
-    disabled: false,
-    open_issues_count: 6,
-    license: null,
-    forks: 0,
-    open_issues: 6,
-    watchers: 0,
-    default_branch: "first-commit",
   },
 ];
